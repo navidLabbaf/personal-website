@@ -255,16 +255,26 @@ function ProjectsContent(props) {
               projects in Matlab and Simulink
             </li>
           </ul>
-          <p>RF and Microwave</p>
+          <p>RF and Microwave devices</p>
           <p>
-            Microwave devices I have extensive experiences in design and
-            manufacturing passive elements such as Wavequides
+            I have extensive experiences in design and manufacturing passive
+            elements such as Wavequides
             <span style={dec}>,</span> dividers<span style={dec}>,</span> horn
             <span style={dec}>, </span>
             LPDA<span style={dec}>,</span> conical<span style={dec}>,</span> bi
             <span style={dec}>-</span>conical<span style={dec}>,</span>{" "}
             microstrips etc<span style={dec}>.</span> My major is to calculate
-            and setup different type of arrays<span style={dec}>.</span>
+            and setup different type of arrays<span style={dec}>.</span> I
+            obtained valuable knowledge in this industry by creating more than
+            40 items<span style={dec}>.</span> I have extensive knowledge of
+            waveguides and waveguide antennas<span style={dec}>,</span>{" "}
+            including horn antennas<span style={dec}>,</span> leaky wave
+            antennas<span style={dec}>,</span> and other waveguide antennas
+            <span style={dec}>,</span> as well as wired and microstrip antennas
+            <span style={dec}>.</span> It is also worth mentioning that I've
+            worked with a variety of various types of arrangements
+            <span style={dec}>,</span> both singular and in arrays
+            <span style={dec}>.</span>
           </p>{" "}
           <p>AI experiences</p>
           <p>

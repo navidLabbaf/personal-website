@@ -260,7 +260,7 @@ function ExperiencesContent(props) {
               <p className="d-block d-sm-none">
                 R<span style={dec}>&</span>D Wireless Telecomunication Systems
               </p>
-              <p>Spehr Prdazan</p>
+              <p>Sepehr Prdazan</p>
               <p>
                 2019<span style={dec}>-</span>present Tehran
                 <span style={dec}>,</span> Tehran

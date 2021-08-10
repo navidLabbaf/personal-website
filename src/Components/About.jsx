@@ -146,6 +146,7 @@ function AboutContent() {
 
       <p className="text">
         <br />
+  
         In my final year of Bachelor
         <span style={dec}>'</span>s studies at Zanjan University
         <span style={dec}>,</span> I became acquainted with the TAKTA Complex
