@@ -5,10 +5,10 @@ import "./Experiences.css";
 function Experiences() {
   return (
     <React.Fragment>
-      <div className="d-none d-sm-block">
+      <div className="d-none d-lg-block">
         <LargeScreen />
       </div>
-      <div className="d-block d-sm-none">
+      <div className="d-block d-lg-none">
         <SmallScreen />
       </div>
     </React.Fragment>
