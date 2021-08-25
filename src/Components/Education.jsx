@@ -43,9 +43,7 @@ function SmallScreen() {
       <div className="container">
         <div className="row jusify-content-center">
           <div className="text-center">
-            
             <Social />
-            
           </div>
         </div>
       </div>
@@ -100,7 +98,7 @@ function Menu(props) {
             className={props.inline ? listInlineItem : "" + item.cName}
             style={menuListStyle}
           >
-            <div style={{padding:"6px"}} >
+            <div style={{ padding: "6px" }}>
               <a
                 href={item.path}
                 style={
@@ -128,10 +126,9 @@ function Social() {
             className={listInlineItem + item.cName}
             style={socialListStyle}
           >
-              <a href={item.path} style={menuLinkStyle}>
-                {item.icon}
-              </a>
-            
+            <a href={item.path} style={menuLinkStyle}>
+              {item.icon}
+            </a>
           </div>
         );
       })}
@@ -195,8 +192,7 @@ function EducationContent() {
                   <span style={dec}>.</span> Hamid Reza Dalili Oskouei
                 </li>
                 <li>
-                  GPA<span style={dec}>:</span> 16<span style={dec}>.</span>15
-                  <span style={dec}>/</span>20
+                  GPA<span style={dec}>:</span> 3<span style={dec}>.</span>63
                 </li>
               </ul>
             </p>
@@ -270,7 +266,7 @@ const menuLinkStyle = {
 const socialListStyle = {
   listStyle: "none",
   textDecoration: "none",
-  padding:"20px"
+  padding: "20px",
 };
 const dec = {
   color: "#fbca04",
