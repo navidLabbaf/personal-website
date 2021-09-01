@@ -221,12 +221,11 @@ function EducationContent() {
                   <li>
                     Writing<span style={dec}>:</span> 16
                   </li>
-                </ul>*/}
+                </ul></p>*/}
                 <p>Booked in November</p>
                 <p>GRE</p>
                 <p>Booked in October</p>
               </p>
-            </p>
           </div>
         </div>
       </div>
