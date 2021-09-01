@@ -204,7 +204,7 @@ function EducationContent() {
                 <br />
               </h4>
               <p>TOFEL</p>
-              <p>
+              {/*<p>
                 Overal<span style={dec}>:</span> 80
               </p>
               <p>
@@ -221,8 +221,8 @@ function EducationContent() {
                   <li>
                     Writing<span style={dec}>:</span> 16
                   </li>
-                </ul>
-                <p>Booked for another test in November</p>
+                </ul>*/}
+                <p>Booked in November</p>
                 <p>GRE</p>
                 <p>Booked in October</p>
               </p>
